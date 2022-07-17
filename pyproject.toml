@@ -7,4 +7,4 @@ requires = [
 [tool.black]
 line-length = 140
 target-version = ['py36']
-skip-string-normalization = true
+skip-string-normalization = false
