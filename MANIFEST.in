@@ -19,4 +19,8 @@ include CONTRIBUTING.rst
 include LICENSE
 include README.rst
 
+recursive-include results *.rst
+recursive-include scripts *.ipynb
+recursive-include scripts *.rst
+
 global-exclude *.py[cod] __pycache__/* *.so *.dylib
