@@ -76,3 +76,4 @@ docs/_build
 # data
 data/
 results/
+scripts/*.ipynb
